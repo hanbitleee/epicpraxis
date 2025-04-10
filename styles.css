@@ -239,7 +239,7 @@ nav a.active {
     z-index: 1;
     color:#fff;
     padding: 1rem 0rem; /*footer 텍스트 간격 조정*/
-    font-size: 1rem;
+    font-size: 0.8rem;
     font-weight: 300;
     margin-top: 24rem;/*wave 높이 조정*/
   }
